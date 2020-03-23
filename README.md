@@ -12,7 +12,8 @@ I'm using the Household electricity power consumption dataset from UCI Machine L
 ## About the dataset:
 This archive contains 2075259 measurements gathered in a house located in Sceaux (7km of Paris, France) between December 2006 and November 2010 (47 months).
 
-**Attributes info:**
+**Attributes info:** <br>
+
 1.date: Date in format dd/mm/yyyy <br>
 2.time: time in format hh:mm:ss <br>
 3.global_active_power: household global minute-averaged active power (in kilowatt) <br>
