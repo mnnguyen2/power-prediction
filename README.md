@@ -6,7 +6,8 @@
 The ability to forecast electricity consumption based on historical usage data is crucial to effective short-term power load allocation and better long-term infrastructure planning. In addition, prediction for electrictity consumption could also play an essential role in enabling proactive energy system planning, reducing operations cost, and enforcing accurate billing.
 
 **In this project: A time series analysis and prediction for next month of electricity consumption** 
-![TS png](https://github.com/mnnguyen2/power-prediction/blob/master/Power%20TS.png)
+
+![TS png](https://github.com/mnnguyen2/power-prediction/blob/master/power%20TS.png)
 
 I'm using the Household electricity power consumption dataset from UCI Machine Learning Repository. The dataset contains measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years. The dataset also contains different electrical quantities and some sub-metering values. Overall, my ultimate objective would be to answer the following question: Can the househole electricity consumption be predicted with reasonable accuracy?
 
