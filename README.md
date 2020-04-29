@@ -32,5 +32,5 @@ This archive contains 2075259 measurements gathered in a house located in Sceaux
 ## About this repository: 
 In this repository, you should find the following files:
 1. **Power Prediction Presentation (PDF)**. This file should give you a good overview of the project (bonus pretty visualizations), and a summary for the models performances.
-2. **Predicting your next electricity bill Python notebook**. This notebook contains the models that I built, tuned, and evaluated to predict power usage. I also went through data cleaning, pre-processing, EDA, feature engineering, model preparation, and discussed about the evaluation metrics I used for all models.  
+2. **Predicting electricity consumption Python notebook**. This notebook contains the models that I built, tuned, and evaluated to predict power usage. I also went through data cleaning, pre-processing, EDA, feature engineering, model preparation, and discussed about the evaluation metrics I used for all models.  
 3. **power_consumption_data.zip** This folder contains the dataset that I used. Data source: https://archive.ics.uci.edu/ml/datasets/
